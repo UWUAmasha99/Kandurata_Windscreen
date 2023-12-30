@@ -1,0 +1,8 @@
+.form-width{
+  margin:0 auto;
+  width: 50%;
+  height:100%;
+}
+.line{
+  text-decoration: line-through;
+}
